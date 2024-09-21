@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishek-217/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
