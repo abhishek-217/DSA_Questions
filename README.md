@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Simulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 <!---LeetCode Topics End-->
