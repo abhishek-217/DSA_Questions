@@ -12,19 +12,23 @@
 class Solution {
 public:
 
-    vector<int> preorderTraversal(TreeNode* root) {
+    vector<int>res; //Create dynamic array to store node val
 
-        vector<int>res;
-        if(root == NULL){
-            return res;
+    void PreO(TreeNode* root){
+        if(root == NULL){ // Check root is null or not 
+            return;
         }
 
-        res.push_back(root->val);
-        vector<int> leftv = preorderTraversal(root->left);
-        res.insert(res.end(), leftv.begin(), leftv.end());
-        vector<int> rightv = preorderTraversal(root->right);
-        res.insert(res.end(), rightv.begin(), rightv.end());
+        res.push_back(root->val); //Push back val to vector res
+        PreO(root->left); // Using Recursion traverse left part
+        PreO(root->right); // Using Recursion traverse right part
 
-        return res;
+    }
+
+    vector<int> preorderTraversal(TreeNode* root) {
+
+        PreO(root); //Call void function
+
+        return res; //Print the result
     }
 };
