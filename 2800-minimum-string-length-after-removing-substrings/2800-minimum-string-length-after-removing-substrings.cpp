@@ -17,15 +17,15 @@ public:
                 }
             }
         }
-        int count =0; // initialize a variable count
+        // int count =0; // initialize a variable count
      
-        while(!s1.empty()){
-            count++; //count increase +1 till stack not empty
-            s1.pop();
-        }
+        // while(!s1.empty()){
+        //     count++; //count increase +1 till stack not empty
+        //     s1.pop();
+        // }
         
 
-        return count; // return number of char in stack;
+        return s1.size(); // return number of char in stack;
         
     }
 };
