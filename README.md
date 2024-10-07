@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/abhishek-217/DSA_Questions/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
