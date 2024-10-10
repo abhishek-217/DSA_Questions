@@ -21,25 +21,25 @@ public:
         q1.push(root);
 
         while(!q1.empty()){
-            double sum =0;
-            int count = q1.size();
+            double sum =0; // Sum is zero
+            int count = q1.size(); //Size of queue
             for(int i =0; i<count; ++i){
 
-                TreeNode* temp = q1.front();
-                q1.pop();
-                
-                sum = sum+temp->val;
+                TreeNode* temp = q1.front(); //trmp is front val of queue
+                q1.pop(); //pop the front value
 
-                if(temp->left){
-                    q1.push(temp->left);
+                sum = sum+temp->val; //Add val 
+
+                if(temp->left){ //Check left node
+                    q1.push(temp->left); //push in queue
                 }
-                if(temp->right){
+                if(temp->right){ //Check right node
                     q1.push(temp->right);
                 }
                 
                 
             }
-            re.push_back(sum/count);
+            re.push_back(sum/count); //Push sum of nodes and avg.
             
         }
 
