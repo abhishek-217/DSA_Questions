@@ -17,10 +17,13 @@ public:
             return {};
         }
 
+        // swap(root->left, root->right);
+
+        // invertTree(root->left);
+        // invertTree(root->right);
+
         queue<TreeNode*>q;
         q.push(root);
-        // q.push(NULL);
-        // TreeNode* temp = NULL;
 
         while(!q.empty()){
            TreeNode* temp = q.front();
