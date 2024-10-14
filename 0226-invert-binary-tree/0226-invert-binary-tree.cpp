@@ -17,27 +17,27 @@ public:
             return {};
         }
 
-        // swap(root->left, root->right);
+        swap(root->left, root->right);
 
-        // invertTree(root->left);
-        // invertTree(root->right);
+        invertTree(root->left);
+        invertTree(root->right);
 
-        queue<TreeNode*>q;
-        q.push(root);
+        // queue<TreeNode*>q;
+        // q.push(root);
 
-        while(!q.empty()){
-           TreeNode* temp = q.front();
-            q.pop();
+        // while(!q.empty()){
+        //    TreeNode* temp = q.front();
+        //     q.pop();
 
-            swap(temp->left, temp->right);
+        //     swap(temp->left, temp->right);
 
-            if(temp->left){ 
-                q.push(temp->left); 
-            }
-            if(temp->right){ 
-                q.push(temp->right);
-            }
-        } 
+        //     if(temp->left){ 
+        //         q.push(temp->left); 
+        //     }
+        //     if(temp->right){ 
+        //         q.push(temp->right);
+        //     }
+        // } 
 
         return root; 
     }
