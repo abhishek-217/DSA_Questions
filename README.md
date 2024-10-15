@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
+| [3195-separate-black-and-white-balls](https://github.com/abhishek-217/DSA_Questions/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/abhishek-217/DSA_Questions/tree/master/3194-find-words-containing-character) |
+| [3195-separate-black-and-white-balls](https://github.com/abhishek-217/DSA_Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/abhishek-217/DSA_Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
