@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhishek-217/DSA_Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhishek-217/DSA_Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
