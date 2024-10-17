@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 ## Binary Search Tree
 |  |
