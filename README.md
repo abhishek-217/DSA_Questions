@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhishek-217/DSA_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhishek-217/DSA_Questions/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/abhishek-217/DSA_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek-217/DSA_Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/abhishek-217/DSA_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
