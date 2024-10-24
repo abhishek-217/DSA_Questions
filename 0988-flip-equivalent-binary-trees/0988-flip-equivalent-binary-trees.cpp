@@ -12,24 +12,6 @@
 class Solution {
 public:
 
-    TreeNode* Compare1(TreeNode* root){
-        if(root == nullptr){
-            return nullptr;
-        }
-        Compare1(root->left);
-        // Compare(root->right);
-
-        return root;
-    }
-    TreeNode* Compare2(TreeNode* root){
-        if(root == nullptr){
-            return nullptr;
-        }
-        Compare2(root->right);
-        // Compare(root->right);
-
-        return root;
-    }
     bool flipEquiv(TreeNode* root1, TreeNode* root2) {
 
         if(root1 == nullptr && root2 == nullptr){
