@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/abhishek-217/DSA_Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
