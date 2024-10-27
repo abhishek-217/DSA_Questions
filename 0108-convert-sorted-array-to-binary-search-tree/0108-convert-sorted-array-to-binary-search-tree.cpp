@@ -12,24 +12,46 @@
 class Solution {
 public:
 
+    TreeNode* CreateTree(vector<int>& arr, int s, int e){
+
+        if(s>e){
+            return nullptr;
+        }
+
+       int mid = (s+e)/2;
+
+        // TreeNode* root = new TreeNode(arr[mid]);
+        TreeNode* root = new TreeNode(arr[mid]);
+
+        root->left = CreateTree(arr, s, mid-1);
+        root->right = CreateTree(arr, mid +1, e);
+
+        return root;
+       
+    }
+
     TreeNode* sortedArrayToBST(vector<int>& nums) {
 
         if(nums.size() == 0){
             return nullptr;
+
         }
 
-        int mid = nums.size()/2;
+        return CreateTree(nums, 0, nums.size()-1);
 
-        TreeNode* root = new TreeNode(nums[mid]);
+        // int mid = nums.size()/2;
 
-        vector<int>left(nums.begin(), nums.begin() + mid);
+        // TreeNode* root = new TreeNode(nums[mid]);
 
-        root->left = sortedArrayToBST(left);
 
-        vector<int>right(nums.begin() + mid+1, nums.end());
-        root->right = sortedArrayToBST(right);
+        // vector<int>left(nums.begin(), nums.begin() + mid);
 
-        return root;
+        // root->left = sortedArrayToBST(left);
+
+        // vector<int>right(nums.begin() + mid+1, nums.end());
+        // root->right = sortedArrayToBST(right);
+
+        // return root;
         
     }
 };
