@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/abhishek-217/DSA_Questions/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhishek-217/DSA_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -314,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
