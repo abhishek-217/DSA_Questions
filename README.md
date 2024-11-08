@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/abhishek-217/DSA_Questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/abhishek-217/DSA_Questions/tree/master/2556-convert-the-temperature) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
