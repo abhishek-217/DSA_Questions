@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3194-find-words-containing-character](https://github.com/abhishek-217/DSA_Questions/tree/master/3194-find-words-containing-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/abhishek-217/DSA_Questions/tree/master/3582-find-indices-of-stable-mountains) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/abhishek-217/DSA_Questions/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
 |  |
 | ------- |
