@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/abhishek-217/DSA_Questions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
