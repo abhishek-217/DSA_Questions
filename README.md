@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
+| [1755-defuse-the-bomb](https://github.com/abhishek-217/DSA_Questions/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/abhishek-217/DSA_Questions/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
