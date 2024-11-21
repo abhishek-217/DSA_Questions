@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/abhishek-217/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishek-217/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/abhishek-217/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
