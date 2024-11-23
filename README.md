@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/abhishek-217/DSA_Questions/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
+| [1972-rotating-the-box](https://github.com/abhishek-217/DSA_Questions/tree/master/1972-rotating-the-box) |
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/abhishek-217/DSA_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
+| [1972-rotating-the-box](https://github.com/abhishek-217/DSA_Questions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
+| [1972-rotating-the-box](https://github.com/abhishek-217/DSA_Questions/tree/master/1972-rotating-the-box) |
 ## Binary Search Tree
 |  |
 | ------- |
