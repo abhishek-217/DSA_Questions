@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/abhishek-217/DSA_Questions/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
