@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/abhishek-217/DSA_Questions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/abhishek-217/DSA_Questions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
