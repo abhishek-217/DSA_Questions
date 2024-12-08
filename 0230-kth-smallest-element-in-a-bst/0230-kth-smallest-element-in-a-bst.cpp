@@ -24,7 +24,6 @@ public:
         vector<int>res;
         Inorder(root, res);
 
-        sort(res.begin(), res.end());
         return res[k-1];
     }
 };
