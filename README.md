@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3194-find-words-containing-character](https://github.com/abhishek-217/DSA_Questions/tree/master/3194-find-words-containing-character) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek-217/DSA_Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Math
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/abhishek-217/DSA_Questions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2089-maximum-matrix-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Binary Search Tree
 |  |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishek-217/DSA_Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
