@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1063-best-sightseeing-pair](https://github.com/abhishek-217/DSA_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
+| [1063-best-sightseeing-pair](https://github.com/abhishek-217/DSA_Questions/tree/master/1063-best-sightseeing-pair) |
 ## Greedy
 |  |
 | ------- |
