@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/abhishek-217/DSA_Questions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2491-smallest-even-multiple](https://github.com/abhishek-217/DSA_Questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/abhishek-217/DSA_Questions/tree/master/2556-convert-the-temperature) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhishek-217/DSA_Questions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [3394-minimum-array-end](https://github.com/abhishek-217/DSA_Questions/tree/master/3394-minimum-array-end) |
