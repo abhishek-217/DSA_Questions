@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhishek-217/DSA_Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/abhishek-217/DSA_Questions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/abhishek-217/DSA_Questions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/abhishek-217/DSA_Questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhishek-217/DSA_Questions/tree/master/0461-hamming-distance) |
