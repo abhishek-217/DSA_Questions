@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2728-sum-in-a-matrix) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhishek-217/DSA_Questions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3394-minimum-array-end](https://github.com/abhishek-217/DSA_Questions/tree/master/3394-minimum-array-end) |
 ## Depth-First Search
@@ -555,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
