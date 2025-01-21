@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/abhishek-217/DSA_Questions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0283-move-zeroes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/abhishek-217/DSA_Questions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/abhishek-217/DSA_Questions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
