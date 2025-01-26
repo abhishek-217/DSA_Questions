@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2388-replace-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2388-replace-elements-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/abhishek-217/DSA_Questions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2388-replace-elements-in-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/abhishek-217/DSA_Questions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
