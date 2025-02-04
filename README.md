@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhishek-217/DSA_Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishek-217/DSA_Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/abhishek-217/DSA_Questions/tree/master/1972-rotating-the-box) |
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2089-maximum-matrix-sum) |
