@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2388-replace-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2388-replace-elements-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/abhishek-217/DSA_Questions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/abhishek-217/DSA_Questions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhishek-217/DSA_Questions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
+| [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abhishek-217/DSA_Questions/tree/master/2792-neighboring-bitwise-xor) |
