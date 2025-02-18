@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhishek-217/DSA_Questions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1254-deepest-leaves-sum) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
