@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishek-217/DSA_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2728-sum-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2728-sum-in-a-matrix) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/abhishek-217/DSA_Questions/tree/master/2486-most-frequent-even-element) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishek-217/DSA_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishek-217/DSA_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/abhishek-217/DSA_Questions/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
