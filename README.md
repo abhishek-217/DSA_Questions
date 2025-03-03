@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abhishek-217/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abhishek-217/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/abhishek-217/DSA_Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2388-replace-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2428-equal-row-and-column-pairs) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/abhishek-217/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2551-apply-operations-to-an-array) |
