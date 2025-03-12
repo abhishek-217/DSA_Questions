@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishek-217/DSA_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek-217/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abhishek-217/DSA_Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/abhishek-217/DSA_Questions/tree/master/2486-most-frequent-even-element) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
