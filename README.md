@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/abhishek-217/DSA_Questions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhishek-217/DSA_Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhishek-217/DSA_Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhishek-217/DSA_Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-217/DSA_Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Backtracking
 |  |
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhishek-217/DSA_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/abhishek-217/DSA_Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-217/DSA_Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
