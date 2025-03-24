@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-217/DSA_Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3430-count-days-without-meetings](https://github.com/abhishek-217/DSA_Questions/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/abhishek-217/DSA_Questions/tree/master/3582-find-indices-of-stable-mountains) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2728-sum-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2728-sum-in-a-matrix) |
+| [3430-count-days-without-meetings](https://github.com/abhishek-217/DSA_Questions/tree/master/3430-count-days-without-meetings) |
 ## Math
 |  |
 | ------- |
