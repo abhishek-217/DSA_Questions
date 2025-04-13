@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishek-217/DSA_Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [2050-count-good-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhishek-217/DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/abhishek-217/DSA_Questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/abhishek-217/DSA_Questions/tree/master/2556-convert-the-temperature) |
