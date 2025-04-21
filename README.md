@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhishek-217/DSA_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/abhishek-217/DSA_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhishek-217/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
+| [2249-count-the-hidden-sequences](https://github.com/abhishek-217/DSA_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
