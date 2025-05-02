@@ -833,4 +833,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/abhishek-217/DSA_Questions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhishek-217/DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/2998-count-symmetric-integers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhishek-217/DSA_Questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
