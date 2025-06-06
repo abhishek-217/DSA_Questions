@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2486-most-frequent-even-element](https://github.com/abhishek-217/DSA_Questions/tree/master/2486-most-frequent-even-element) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishek-217/DSA_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/abhishek-217/DSA_Questions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Design
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/abhishek-217/DSA_Questions/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
