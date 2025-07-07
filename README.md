@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhishek-217/DSA_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishek-217/DSA_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2089-maximum-matrix-sum) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abhishek-217/DSA_Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishek-217/DSA_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
