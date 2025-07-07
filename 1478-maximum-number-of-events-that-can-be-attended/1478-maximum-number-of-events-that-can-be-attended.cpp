@@ -14,7 +14,7 @@ public:
         sort(e.begin(), e.end());
         priority_queue<int, vector<int>, greater<> >pq;
 
-        for(int i=0 , j =0; i<= maxDay; i++){
+        for(int i=1 , j =0; i<= maxDay; i++){
             while(j<l && e[j][0] <= i){
                 pq.emplace(e[j][1]);
                 j++;
