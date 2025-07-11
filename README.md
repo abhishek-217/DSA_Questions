@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/abhishek-217/DSA_Questions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhishek-217/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-217/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhishek-217/DSA_Questions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/abhishek-217/DSA_Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -940,4 +944,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhishek-217/DSA_Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
