@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/abhishek-217/DSA_Questions/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/abhishek-217/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhishek-217/DSA_Questions/tree/master/0056-merge-intervals) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/abhishek-217/DSA_Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/abhishek-217/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/abhishek-217/DSA_Questions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhishek-217/DSA_Questions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/abhishek-217/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/abhishek-217/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhishek-217/DSA_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhishek-217/DSA_Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0088-merge-sorted-array) |
