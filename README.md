@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/abhishek-217/DSA_Questions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/abhishek-217/DSA_Questions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/abhishek-217/DSA_Questions/tree/master/0368-largest-divisible-subset) |
