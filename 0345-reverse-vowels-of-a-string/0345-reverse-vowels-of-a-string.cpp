@@ -2,7 +2,7 @@ class Solution {
 public:
     string reverseVowels(string s) {
         string vow = "";
-        unordered_set<char>ans = {'a','A','e','E','i','I','o','O','u','U'};
+        vector<char>ans = {'a','A','e','E','i','I','o','O','u','U'};
 
         for(char i: s){
             if(find(ans.begin(), ans.end(), i) != ans.end()){
