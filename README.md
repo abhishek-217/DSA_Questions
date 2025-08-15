@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/abhishek-217/DSA_Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhishek-217/DSA_Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abhishek-217/DSA_Questions/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/abhishek-217/DSA_Questions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/abhishek-217/DSA_Questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhishek-217/DSA_Questions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/abhishek-217/DSA_Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhishek-217/DSA_Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/abhishek-217/DSA_Questions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/abhishek-217/DSA_Questions/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
