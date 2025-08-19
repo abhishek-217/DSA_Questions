@@ -1,10 +1,12 @@
 class Solution {
     public static int gcd(int a, int b) {
-        if (a == 0) {
-            return b;
-        }
+       while(b != 0){
+            int temp = b;
+            b = a%b;
+            a = temp;
+       }
 
-        return gcd(b %a, a);
+       return a;
     }
 
     public int findGCD(int[] nums) {
