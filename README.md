@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3430-count-days-without-meetings](https://github.com/abhishek-217/DSA_Questions/tree/master/3430-count-days-without-meetings) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3483-alternating-groups-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/abhishek-217/DSA_Questions/tree/master/3582-find-indices-of-stable-mountains) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2728-sum-in-a-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishek-217/DSA_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search Tree
 |  |
 | ------- |
