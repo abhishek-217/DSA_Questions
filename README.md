@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishek-217/DSA_Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek-217/DSA_Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
 |  |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/abhishek-217/DSA_Questions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/abhishek-217/DSA_Questions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/abhishek-217/DSA_Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/abhishek-217/DSA_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search Tree
 |  |
 | ------- |
