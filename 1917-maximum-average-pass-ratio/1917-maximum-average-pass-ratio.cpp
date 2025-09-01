@@ -1,6 +1,7 @@
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+        
         priority_queue<pair<double,pair<int,int>>>pq;
         for(int i=0; i<classes.size(); i++){
             int pass = classes[i][0];
