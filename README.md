@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishek-217/DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek-217/DSA_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-delete-columns-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek-217/DSA_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhishek-217/DSA_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
