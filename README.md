@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhishek-217/DSA_Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/abhishek-217/DSA_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhishek-217/DSA_Questions/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/abhishek-217/DSA_Questions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/abhishek-217/DSA_Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishek-217/DSA_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/abhishek-217/DSA_Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/abhishek-217/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-217/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/abhishek-217/DSA_Questions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
