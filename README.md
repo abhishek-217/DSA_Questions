@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhishek-217/DSA_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/0242-valid-anagram) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhishek-217/DSA_Questions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhishek-217/DSA_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0048-rotate-image) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhishek-217/DSA_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhishek-217/DSA_Questions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0263-ugly-number) |
