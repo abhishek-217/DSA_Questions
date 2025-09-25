@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2401-count-asterisks](https://github.com/abhishek-217/DSA_Questions/tree/master/2401-count-asterisks) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
