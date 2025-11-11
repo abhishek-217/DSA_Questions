@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhishek-217/DSA_Questions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/abhishek-217/DSA_Questions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/abhishek-217/DSA_Questions/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/abhishek-217/DSA_Questions/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/abhishek-217/DSA_Questions/tree/master/0561-array-partition) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0474-ones-and-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0474-ones-and-zeroes) |
 | [0535-encode-and-decode-tinyurl](https://github.com/abhishek-217/DSA_Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishek-217/DSA_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/abhishek-217/DSA_Questions/tree/master/0657-robot-return-to-origin) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0474-ones-and-zeroes) |
 | [1063-best-sightseeing-pair](https://github.com/abhishek-217/DSA_Questions/tree/master/1063-best-sightseeing-pair) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishek-217/DSA_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
