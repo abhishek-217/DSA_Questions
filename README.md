@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/abhishek-217/DSA_Questions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek-217/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
