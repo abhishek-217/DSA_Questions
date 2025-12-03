@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/abhishek-217/DSA_Questions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhishek-217/DSA_Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1044-find-common-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1044-find-common-characters) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0822-unique-morse-code-words) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishek-217/DSA_Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishek-217/DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
