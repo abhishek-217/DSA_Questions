@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/abhishek-217/DSA_Questions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2678-number-of-senior-citizens](https://github.com/abhishek-217/DSA_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2681-put-marbles-in-bags](https://github.com/abhishek-217/DSA_Questions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/abhishek-217/DSA_Questions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/abhishek-217/DSA_Questions/tree/master/2580-circular-sentence) |
+| [2678-number-of-senior-citizens](https://github.com/abhishek-217/DSA_Questions/tree/master/2678-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
