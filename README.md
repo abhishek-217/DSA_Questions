@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2580-circular-sentence](https://github.com/abhishek-217/DSA_Questions/tree/master/2580-circular-sentence) |
 | [2678-number-of-senior-citizens](https://github.com/abhishek-217/DSA_Questions/tree/master/2678-number-of-senior-citizens) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishek-217/DSA_Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/abhishek-217/DSA_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3639-zero-array-transformation-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
