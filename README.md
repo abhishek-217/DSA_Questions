@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhishek-217/DSA_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek-217/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abhishek-217/DSA_Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhishek-217/DSA_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/abhishek-217/DSA_Questions/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishek-217/DSA_Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
