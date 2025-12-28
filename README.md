@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
+| [0932-beautiful-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/abhishek-217/DSA_Questions/tree/master/0945-snakes-and-ladders) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
+| [0932-beautiful-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0932-beautiful-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0932-beautiful-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
