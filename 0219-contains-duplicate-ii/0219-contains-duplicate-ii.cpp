@@ -16,12 +16,13 @@ public:
         // return false;
 
         int n = nums.size();
-        unordered_map<int, int> mpp;
-        for (int i = 0; i < n; i++) {
-            if (mpp.find(nums[i]) != mpp.end() && i - mpp[nums[i]] <= k) {
+        unordered_map<int, int>mp;
+        for(int i=0; i<n; i++){
+            if(mp.find(nums[i]) != mp.end() && i - mp[nums[i]] <= k){
                 return true;
             }
-            mpp[nums[i]] = i;
+
+            mp[nums[i]] = i;
         }
         return false;
     }
