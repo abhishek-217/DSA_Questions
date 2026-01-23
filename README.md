@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abhishek-217/DSA_Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishek-217/DSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhishek-217/DSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishek-217/DSA_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -936,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abhishek-217/DSA_Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-217/DSA_Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/abhishek-217/DSA_Questions/tree/master/3394-minimum-array-end) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1114,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3206-alternating-groups-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3206-alternating-groups-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhishek-217/DSA_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -1134,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/abhishek-217/DSA_Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
