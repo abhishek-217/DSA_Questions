@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishek-217/DSA_Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/abhishek-217/DSA_Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2887-sort-vowels-in-a-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhishek-217/DSA_Questions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3206-alternating-groups-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhishek-217/DSA_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
