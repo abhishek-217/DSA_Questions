@@ -6,7 +6,7 @@ public:
         int maxres = INT_MIN;
 
         for(int i=0; i<n; i++){
-            for(int j=0; j<n; j++){
+            for(int j=i; j<n; j++){
                 if(abs(nums[i] - nums[j]) <= min(nums[i], nums[j])){
                     maxres = max(maxres, nums[i]^nums[j]);
                 }
