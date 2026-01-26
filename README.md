@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishek-217/DSA_Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1200-minimum-absolute-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/abhishek-217/DSA_Questions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
