@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/abhishek-217/DSA_Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/abhishek-217/DSA_Questions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/abhishek-217/DSA_Questions/tree/master/1773-count-items-matching-a-rule) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/abhishek-217/DSA_Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhishek-217/DSA_Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishek-217/DSA_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/abhishek-217/DSA_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/abhishek-217/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-217/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishek-217/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhishek-217/DSA_Questions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1925-count-square-sum-triples](https://github.com/abhishek-217/DSA_Questions/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhishek-217/DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2050-count-good-numbers) |
