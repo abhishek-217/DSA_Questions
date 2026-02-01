@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishek-217/DSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhishek-217/DSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishek-217/DSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhishek-217/DSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1217,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/abhishek-217/DSA_Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Database
