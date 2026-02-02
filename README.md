@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/abhishek-217/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhishek-217/DSA_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/abhishek-217/DSA_Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -647,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/abhishek-217/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishek-217/DSA_Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/abhishek-217/DSA_Questions/tree/master/2249-count-the-hidden-sequences) |
