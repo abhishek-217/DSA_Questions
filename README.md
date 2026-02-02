@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishek-217/DSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhishek-217/DSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-find-missing-and-repeated-values](https://github.com/abhishek-217/DSA_Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhishek-217/DSA_Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/abhishek-217/DSA_Questions/tree/master/2681-put-marbles-in-bags) |
 | [2728-sum-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2728-sum-in-a-matrix) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishek-217/DSA_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
@@ -1140,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3206-alternating-groups-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhishek-217/DSA_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
