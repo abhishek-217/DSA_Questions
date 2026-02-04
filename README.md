@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishek-217/DSA_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhishek-217/DSA_Questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abhishek-217/DSA_Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhishek-217/DSA_Questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/abhishek-217/DSA_Questions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhishek-217/DSA_Questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
