@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/abhishek-217/DSA_Questions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/abhishek-217/DSA_Questions/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/abhishek-217/DSA_Questions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-217/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/abhishek-217/DSA_Questions/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -1121,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/abhishek-217/DSA_Questions/tree/master/0456-132-pattern) |
+| [0503-next-greater-element-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
