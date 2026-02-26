@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0898-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/abhishek-217/DSA_Questions/tree/master/0905-sort-array-by-parity) |
 | [0932-beautiful-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/abhishek-217/DSA_Questions/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abhishek-217/DSA_Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/abhishek-217/DSA_Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhishek-217/DSA_Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abhishek-217/DSA_Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
+| [0905-sort-array-by-parity](https://github.com/abhishek-217/DSA_Questions/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/1200-minimum-absolute-difference) |
