@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abhishek-217/DSA_Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/abhishek-217/DSA_Questions/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/abhishek-217/DSA_Questions/tree/master/1972-rotating-the-box) |
