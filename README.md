@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhishek-217/DSA_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1390-four-divisors](https://github.com/abhishek-217/DSA_Questions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek-217/DSA_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1436-destination-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1436-destination-city) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/abhishek-217/DSA_Questions/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/abhishek-217/DSA_Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/abhishek-217/DSA_Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1436-destination-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishek-217/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/1200-minimum-absolute-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
