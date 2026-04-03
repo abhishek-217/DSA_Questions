@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/abhishek-217/DSA_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishek-217/DSA_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1436-destination-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1436-destination-city) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/abhishek-217/DSA_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/abhishek-217/DSA_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/abhishek-217/DSA_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -882,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/abhishek-217/DSA_Questions/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/abhishek-217/DSA_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-construct-k-palindrome-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
