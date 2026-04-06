@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/abhishek-217/DSA_Questions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/abhishek-217/DSA_Questions/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0791-custom-sort-string) |
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0822-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/abhishek-217/DSA_Questions/tree/master/0840-magic-squares-in-grid) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/abhishek-217/DSA_Questions/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/abhishek-217/DSA_Questions/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/abhishek-217/DSA_Questions/tree/master/0782-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0791-custom-sort-string) |
 | [0812-rotate-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0822-unique-morse-code-words) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0692-top-k-frequent-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0791-custom-sort-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0791-custom-sort-string) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/abhishek-217/DSA_Questions/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/abhishek-217/DSA_Questions/tree/master/0905-sort-array-by-parity) |
