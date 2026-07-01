@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-subarrays-with-k-different-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/abhishek-217/DSA_Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1044-find-common-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1044-find-common-characters) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/abhishek-217/DSA_Questions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1044-find-common-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1044-find-common-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/abhishek-217/DSA_Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
+| [0992-subarrays-with-k-different-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
@@ -1274,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0658-find-k-closest-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhishek-217/DSA_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishek-217/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
