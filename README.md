@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhishek-217/DSA_Questions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/abhishek-217/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/abhishek-217/DSA_Questions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/abhishek-217/DSA_Questions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/abhishek-217/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-217/DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0474-ones-and-zeroes](https://github.com/abhishek-217/DSA_Questions/tree/master/0474-ones-and-zeroes) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/abhishek-217/DSA_Questions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/abhishek-217/DSA_Questions/tree/master/0412-fizz-buzz) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/abhishek-217/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0509-fibonacci-number) |
