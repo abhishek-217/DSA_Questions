@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/abhishek-217/DSA_Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-217/DSA_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/abhishek-217/DSA_Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0394-decode-string) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhishek-217/DSA_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/abhishek-217/DSA_Questions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/abhishek-217/DSA_Questions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/abhishek-217/DSA_Questions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/abhishek-217/DSA_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhishek-217/DSA_Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0692-top-k-frequent-words) |
