@@ -1425,6 +1425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-bank-account-summary-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/abhishek-217/DSA_Questions/tree/master/1827-invalid-tweets) |
 | [1965-employees-with-missing-information](https://github.com/abhishek-217/DSA_Questions/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/abhishek-217/DSA_Questions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/abhishek-217/DSA_Questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Interactive
 |  |
