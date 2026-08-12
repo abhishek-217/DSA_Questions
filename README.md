@@ -1435,6 +1435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/abhishek-217/DSA_Questions/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/abhishek-217/DSA_Questions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/1734-bank-account-summary-ii) |
+| [1757-recyclable-and-low-fat-products](https://github.com/abhishek-217/DSA_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/abhishek-217/DSA_Questions/tree/master/1827-invalid-tweets) |
 | [1965-employees-with-missing-information](https://github.com/abhishek-217/DSA_Questions/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/abhishek-217/DSA_Questions/tree/master/1978-employees-whose-manager-left-the-company) |
