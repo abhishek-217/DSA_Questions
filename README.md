@@ -702,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/abhishek-217/DSA_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/abhishek-217/DSA_Questions/tree/master/1063-best-sightseeing-pair) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishek-217/DSA_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishek-217/DSA_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/abhishek-217/DSA_Questions/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/abhishek-217/DSA_Questions/tree/master/0900-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0932-beautiful-array) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhishek-217/DSA_Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/abhishek-217/DSA_Questions/tree/master/1390-four-divisors) |
@@ -1466,4 +1468,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
