@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhishek-217/DSA_Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek-217/DSA_Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhishek-217/DSA_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -1201,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhishek-217/DSA_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1469,4 +1471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/abhishek-217/DSA_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
