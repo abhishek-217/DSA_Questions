@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1635-number-of-good-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/abhishek-217/DSA_Questions/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1677-matrix-diagonal-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1677-matrix-diagonal-sum) |
 | [1726-tuple-with-same-product](https://github.com/abhishek-217/DSA_Questions/tree/master/1726-tuple-with-same-product) |
 | [1755-defuse-the-bomb](https://github.com/abhishek-217/DSA_Questions/tree/master/1755-defuse-the-bomb) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1635-number-of-good-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1726-tuple-with-same-product](https://github.com/abhishek-217/DSA_Questions/tree/master/1726-tuple-with-same-product) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishek-217/DSA_Questions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2454-next-greater-element-iv](https://github.com/abhishek-217/DSA_Questions/tree/master/2454-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -768,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/abhishek-217/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishek-217/DSA_Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/abhishek-217/DSA_Questions/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
@@ -1329,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhishek-217/DSA_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhishek-217/DSA_Questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishek-217/DSA_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/abhishek-217/DSA_Questions/tree/master/1755-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek-217/DSA_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
