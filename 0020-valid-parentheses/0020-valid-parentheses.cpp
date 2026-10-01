@@ -21,12 +21,7 @@ public:
                      
                             
         }
-        if(!sta.empty()){
-
-            return false; 
-        }
-
-        return true;
+       return sta.empty();
  
     }
 }; 
