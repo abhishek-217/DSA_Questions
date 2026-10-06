@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0791-custom-sort-string) |
 | [0812-rotate-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/abhishek-217/DSA_Questions/tree/master/0822-unique-morse-code-words) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/abhishek-217/DSA_Questions/tree/master/0682-baseball-game) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishek-217/DSA_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/abhishek-217/DSA_Questions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/abhishek-217/DSA_Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/abhishek-217/DSA_Questions/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1448-maximum-69-number) |
@@ -1516,6 +1519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek-217/DSA_Questions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishek-217/DSA_Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
