@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2388-replace-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2388-replace-elements-in-an-array) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/abhishek-217/DSA_Questions/tree/master/2454-next-greater-element-iv) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/abhishek-217/DSA_Questions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/abhishek-217/DSA_Questions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/abhishek-217/DSA_Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -851,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishek-217/DSA_Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2454-next-greater-element-iv](https://github.com/abhishek-217/DSA_Questions/tree/master/2454-next-greater-element-iv) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1294,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhishek-217/DSA_Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishek-217/DSA_Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2454-next-greater-element-iv](https://github.com/abhishek-217/DSA_Questions/tree/master/2454-next-greater-element-iv) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/abhishek-217/DSA_Questions/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhishek-217/DSA_Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
