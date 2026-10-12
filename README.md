@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2792-neighboring-bitwise-xor](https://github.com/abhishek-217/DSA_Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2906-construct-product-matrix) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhishek-217/DSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/abhishek-217/DSA_Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/abhishek-217/DSA_Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/abhishek-217/DSA_Questions/tree/master/2681-put-marbles-in-bags) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/abhishek-217/DSA_Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/abhishek-217/DSA_Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/abhishek-217/DSA_Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1159,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/abhishek-217/DSA_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/abhishek-217/DSA_Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-217/DSA_Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/abhishek-217/DSA_Questions/tree/master/3394-minimum-array-end) |
