@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhishek-217/DSA_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/abhishek-217/DSA_Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/3731-find-missing-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishek-217/DSA_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishek-217/DSA_Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek-217/DSA_Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/abhishek-217/DSA_Questions/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/abhishek-217/DSA_Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/3731-find-missing-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
