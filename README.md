@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishek-217/DSA_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhishek-217/DSA_Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -954,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek-217/DSA_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/abhishek-217/DSA_Questions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/abhishek-217/DSA_Questions/tree/master/3830-find-closest-person) |
 | [3871-count-commas-in-range-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3871-count-commas-in-range-ii) |
