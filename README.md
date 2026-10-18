@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhishek-217/DSA_Questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abhishek-217/DSA_Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/abhishek-217/DSA_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishek-217/DSA_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishek-217/DSA_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishek-217/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1635-number-of-good-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhishek-217/DSA_Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/abhishek-217/DSA_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1060,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishek-217/DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1731-even-odd-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/abhishek-217/DSA_Questions/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/abhishek-217/DSA_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-deepest-leaves-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1731-even-odd-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/abhishek-217/DSA_Questions/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1278,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishek-217/DSA_Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1294,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0932-beautiful-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0948-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
@@ -1464,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/abhishek-217/DSA_Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
@@ -1539,6 +1547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1559,4 +1568,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
