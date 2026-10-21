@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishek-217/DSA_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
