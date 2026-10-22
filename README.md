@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhishek-217/DSA_Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3886-sum-of-sortable-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhishek-217/DSA_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhishek-217/DSA_Questions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
