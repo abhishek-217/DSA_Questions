@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/abhishek-217/DSA_Questions/tree/master/2401-count-asterisks) |
+| [2409-count-days-spent-together](https://github.com/abhishek-217/DSA_Questions/tree/master/2409-count-days-spent-together) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/abhishek-217/DSA_Questions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/abhishek-217/DSA_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/abhishek-217/DSA_Questions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/abhishek-217/DSA_Questions/tree/master/2409-count-days-spent-together) |
 | [2448-count-number-of-bad-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/abhishek-217/DSA_Questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/abhishek-217/DSA_Questions/tree/master/2556-convert-the-temperature) |
