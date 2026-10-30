@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/abhishek-217/DSA_Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhishek-217/DSA_Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -1357,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/abhishek-217/DSA_Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1494,6 +1496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishek-217/DSA_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1580,6 +1583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhishek-217/DSA_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/abhishek-217/DSA_Questions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bracket Sequences
 |  |
 | ------- |
