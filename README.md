@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhishek-217/DSA_Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhishek-217/DSA_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/abhishek-217/DSA_Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3665-twisted-mirror-path-count](https://github.com/abhishek-217/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/3731-find-missing-elements) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhishek-217/DSA_Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3665-twisted-mirror-path-count](https://github.com/abhishek-217/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -1292,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/abhishek-217/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhishek-217/DSA_Questions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/abhishek-217/DSA_Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
