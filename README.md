@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhishek-217/DSA_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/abhishek-217/DSA_Questions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/abhishek-217/DSA_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/abhishek-217/DSA_Questions/tree/master/0861-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/abhishek-217/DSA_Questions/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/abhishek-217/DSA_Questions/tree/master/0942-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/abhishek-217/DSA_Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/abhishek-217/DSA_Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/abhishek-217/DSA_Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhishek-217/DSA_Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -876,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/abhishek-217/DSA_Questions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/abhishek-217/DSA_Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/abhishek-217/DSA_Questions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
