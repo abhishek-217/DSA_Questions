@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/abhishek-217/DSA_Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/abhishek-217/DSA_Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3665-twisted-mirror-path-count](https://github.com/abhishek-217/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhishek-217/DSA_Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/abhishek-217/DSA_Questions/tree/master/3731-find-missing-elements) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhishek-217/DSA_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhishek-217/DSA_Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3665-twisted-mirror-path-count](https://github.com/abhishek-217/DSA_Questions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
