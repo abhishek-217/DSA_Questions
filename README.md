@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/abhishek-217/DSA_Questions/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-217/DSA_Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/abhishek-217/DSA_Questions/tree/master/3379-transformed-array) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/abhishek-217/DSA_Questions/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2906-construct-product-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/2906-construct-product-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3639-zero-array-transformation-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3643-zero-array-transformation-ii) |
@@ -1456,6 +1458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3206-alternating-groups-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhishek-217/DSA_Questions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/abhishek-217/DSA_Questions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-alternating-groups-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3483-alternating-groups-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhishek-217/DSA_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
