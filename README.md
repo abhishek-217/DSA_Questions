@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/abhishek-217/DSA_Questions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/abhishek-217/DSA_Questions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/abhishek-217/DSA_Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/abhishek-217/DSA_Questions/tree/master/1063-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhishek-217/DSA_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishek-217/DSA_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/abhishek-217/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishek-217/DSA_Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/abhishek-217/DSA_Questions/tree/master/2249-count-the-hidden-sequences) |
@@ -971,6 +974,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhishek-217/DSA_Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/abhishek-217/DSA_Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1635-number-of-good-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhishek-217/DSA_Questions/tree/master/1636-number-of-substrings-with-only-1s) |
