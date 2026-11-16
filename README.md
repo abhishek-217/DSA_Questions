@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhishek-217/DSA_Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/abhishek-217/DSA_Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/abhishek-217/DSA_Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/abhishek-217/DSA_Questions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/abhishek-217/DSA_Questions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhishek-217/DSA_Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/abhishek-217/DSA_Questions/tree/master/2292-counting-words-with-a-given-prefix) |
