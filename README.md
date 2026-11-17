@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/abhishek-217/DSA_Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/abhishek-217/DSA_Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/abhishek-217/DSA_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhishek-217/DSA_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3195-separate-black-and-white-balls](https://github.com/abhishek-217/DSA_Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2887-sort-vowels-in-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhishek-217/DSA_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-217/DSA_Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishek-217/DSA_Questions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/abhishek-217/DSA_Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/abhishek-217/DSA_Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/abhishek-217/DSA_Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhishek-217/DSA_Questions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhishek-217/DSA_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/abhishek-217/DSA_Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
