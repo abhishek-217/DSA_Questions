@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/abhishek-217/DSA_Questions/tree/master/1980-find-unique-binary-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/abhishek-217/DSA_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/abhishek-217/DSA_Questions/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/abhishek-217/DSA_Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2128-reverse-prefix-of-word](https://github.com/abhishek-217/DSA_Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/abhishek-217/DSA_Questions/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/abhishek-217/DSA_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
