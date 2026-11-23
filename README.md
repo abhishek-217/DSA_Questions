@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/abhishek-217/DSA_Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhishek-217/DSA_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/abhishek-217/DSA_Questions/tree/master/1366-rank-teams-by-votes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/abhishek-217/DSA_Questions/tree/master/1390-four-divisors) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/abhishek-217/DSA_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/abhishek-217/DSA_Questions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0859-design-circular-deque](https://github.com/abhishek-217/DSA_Questions/tree/master/0859-design-circular-deque) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/abhishek-217/DSA_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/abhishek-217/DSA_Questions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/abhishek-217/DSA_Questions/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhishek-217/DSA_Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishek-217/DSA_Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/abhishek-217/DSA_Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-217/DSA_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek-217/DSA_Questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhishek-217/DSA_Questions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/abhishek-217/DSA_Questions/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhishek-217/DSA_Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1659,4 +1663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishek-217/DSA_Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/abhishek-217/DSA_Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
