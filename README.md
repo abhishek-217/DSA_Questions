@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhishek-217/DSA_Questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3174-clear-digits](https://github.com/abhishek-217/DSA_Questions/tree/master/3174-clear-digits) |
 | [3336-water-bottles-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/abhishek-217/DSA_Questions/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/abhishek-217/DSA_Questions/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhishek-217/DSA_Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1011,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhishek-217/DSA_Questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/abhishek-217/DSA_Questions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/abhishek-217/DSA_Questions/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/abhishek-217/DSA_Questions/tree/master/3360-stone-removal-game) |
 | [3462-vowels-game-in-a-string](https://github.com/abhishek-217/DSA_Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/abhishek-217/DSA_Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishek-217/DSA_Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
